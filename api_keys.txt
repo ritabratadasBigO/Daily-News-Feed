@@ -1,0 +1,10 @@
+news_api = '94eb6ab74e554c2d82bb8d4f17170071'
+git_pat_tok = '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'
+openai_key = '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'
+google_cse_api = 'AIzaSyDjXXb_bFi_Qm47VQlRr2wxspeobDicmSs'
+cse_id = 'e2fbde31fbe034cc1'
+pass_key = 'dkcxmlvzjsxcdmjz' ## Email automation pass key
+heroku token = 'HRKU-a5b1f968-b969-4f4f-b02e-1082dcf3f81c' 
+gemini_api_key - 'AIzaSyCuZDCq2Z2SSDAT3mb5uNYJiaaWarTn1Es'
+groq_key = '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'
+hugging_face_key = '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'
